@@ -1,0 +1,1446 @@
+<resources>
+    <string name="app_name">final</string>
+
+    <string-array name="title_song">
+
+        <item>Nothing // Bruno Major </item>
+        <item>Perfect // Ed Sheeran </item>
+        <item>Easily // Bruno Major </item>
+        <item>Ang huling el bimbo // Eraserheads </item>
+        <item>Drunk // Keshi</item>
+        <item>A Capella // Daniel Caesar </item>
+        <item>Ivy // Frank Ocean</item>
+        <item>Paraluman // Adie </item>
+        <item>Binibini // Zack Tabudlo </item>
+        <item>Binhi // Arthur Nery </item>
+        <item>My Favourite Clothes // NIKI (Australia) </item>
+        <item>Tatlong Araw // Parokya ni Edgar </item>
+        <item>Ulap // Rob Deniel </item>
+        <item>Always, I\'ll Care // Jeremy Zucker</item>
+        <item>KLWKN // Music Hero </item>
+    </string-array>
+
+    <string-array name="details_song">
+
+        <item>
+ \n           [Verse 1]
+\n D &#160; &#160; &#160; &#160; F &#160; &#160; &#160; &#160;  F#7
+\n Track suits and red wine
+\n Bm &#160; &#160; &#160;  D7
+\n Movies for two
+\n      G  &#160; &#160; &#160; &#160; &#160; &#160;  D
+\n We\'ll turn off our phones
+\n          E7  &#160; &#160; &#160; &#160; &#160; &#160;   A7
+\n And we\'ll take off our shoes
+\n D    &#160; &#160; &#160;      F#7
+\n We\'ll play Nintendo
+\n    Bm    &#160; &#160; &#160; &#160;  D7
+\n And I\'ll always lose
+\n      G     &#160; &#160; &#160; &#160; &#160; &#160;  D
+\n Cause you\'ll watch the TV
+\n       E7   &#160; &#160; &#160;  &#160; &#160;      A7
+\n Whilst I\'m watching you
+\n
+\n
+\n [Chorus]
+\n          D  &#160; &#160; &#160; &#160; &#160;          F#7
+\n Though we might not be dancing
+\n       Bm     &#160; &#160; &#160; &#160; &#160;       D7
+\n By the light of the moon
+\n G &#160; &#160;  E7
+\n Mmmm
+\n             Em
+\n But there\'s nothing
+\n            Gm
+\n Like doing nothing
+\n     D
+\n With you
+\n
+\n
+\n [Verse 2]
+\n D   &#160; &#160; &#160; &#160; &#160;      F#7
+\n Dumb conversations
+\n   Bm    &#160; &#160; &#160; &#160; &#160;       D7
+\n We lose track of time
+\n     G     &#160; &#160; &#160; &#160; &#160;    D
+\n Have I told you lately
+\n    E7      &#160; &#160; &#160; &#160; &#160;        A7
+\n I\'m grateful you\'re mine
+\n D     &#160; &#160; &#160; &#160; &#160;          F#7
+\n We\'ll watch the Notebook
+\n        Bm   &#160; &#160; &#160; &#160; &#160;      D7
+\n For the seventeenth time
+\n G       &#160; &#160; &#160; &#160; &#160;      D
+\n I\'ll say "It\'s stupid"
+\n     E7     &#160; &#160; &#160; &#160; &#160;     A7
+\n Then you\'ll catch me crying
+\n
+\n
+\n [Chorus]
+\n             D  &#160; &#160; &#160; &#160; &#160;        F#7
+\n Though we\'re not making out
+\n     Bm   &#160; &#160; &#160; &#160; &#160;       D7
+\n On a boat in the rain
+\n        G   &#160; &#160; &#160; &#160; &#160;               E7
+\n Or in a house I\'ve painted blue
+\n        Em
+\n There\'s nothing
+\n           Gm
+\n Like doing nothing
+\n     D
+\n With you
+\n
+\n
+\n [Bridge]
+\n    Bm &#160; &#160; &#160; &#160; &#160;
+\n So shut all the windows
+\n    F#7 &#160; &#160; &#160; &#160; &#160;
+\n And lock all the doors
+\n          D &#160; &#160; &#160; &#160; &#160;
+\n We\'re not looking for no one
+\n         E7 &#160; &#160; &#160; &#160; &#160;
+\n We don\'t need nothing more
+\n Bm &#160; &#160; &#160; &#160; &#160;
+\n You\'ll bite my lip and
+\n F#7 &#160; &#160; &#160; &#160; &#160;
+\n I\'ll want you more
+\n D &#160; &#160; &#160; &#160; &#160;
+\n Until we end up
+\n     E7 &#160; &#160; &#160; &#160; &#160;
+\n In a heap in the floor
+\n F7 &#160; C7 &#160; F\#7 &#160; B7 &#160; Em7 &#160; A7
+\n Mmmmmm
+\n
+\n
+\n [Outro]
+\n             D   &#160; &#160; &#160; &#160; &#160; &#160;      F#7
+\n You could be dancing on table tops
+\n Bm     &#160; &#160; &#160; &#160; &#160;      D7
+\n Wearing high-heels
+\n G    &#160; &#160; &#160; &#160; &#160;       D
+\n Drinking until the world
+\n E7      &#160; &#160; &#160; &#160; &#160;     A7
+\n Spins like a wheel
+\n      D     &#160; &#160; &#160; &#160; &#160;     F#7
+\nBut tonight my apartment
+\n    Bm   &#160; &#160; &#160; &#160; &#160;   D7
+\n Had so much appeal
+\n G E7
+\n Mmmm
+\n            Em
+\n And there\'s nothing
+\n           Gm
+\n Like doing nothing
+\n     Bm7
+\n With you
+\n   E7
+\n Mmmm
+\n            G
+\n No, there\'s nothing
+\n           A7
+\n Like doing nothing
+\n     D
+\n With you</item>
+        <item>
+\n  G   &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;      Em
+\n I found a love for me
+\n   C  &#160;&#160;&#160;&#160;&#160;&#160;&#160;      D
+\n Darling just dive right in, and follow my lead
+\n   G  &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;  Em
+\n Well I found a girl beautiful and sweet
+\n    C    &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;       D
+\n I never knew you were the someone waiting for me
+\n
+\n
+\n      G
+\n Cause we were just kids when we fell in love
+\n     Em       &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;    C   &#160;&#160;&#160;
+\n Not knowing what it was,
+\n    G  &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; D
+\n  I will not give you up this ti-ime
+\n       G      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;         Em
+\n But darling just kiss me slow, your heart is all I own
+\n      C      &#160;&#160;&#160;&#160;&#160;&#160;       D
+\n And in your eyes you\'re holding mine
+\n
+\n  &#160;  Em    C   &#160;&#160;&#160;   G   &#160;&#160;&#160;     D    &#160;&#160;&#160;&#160;    Em
+\n Baby, I\'m dancing in the dark, with you between my arms
+\n C  &#160;&#160;&#160; &#160;&#160;    G  &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; D       &#160;&#160;&#160;                    Em
+\n Barefoot on the grass, listening to our favorite song
+\n   &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;   C     &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;    G      &#160;&#160;&#160;&#160;&#160;&#160;     D  &#160;&#160;&#160;   Em
+\n When you said you looked a mess, I whispered underneath my breath
+\n   &#160;&#160;&#160;  C  &#160;&#160;&#160;  G &#160;  D   &#160;   G
+\n But you heard it, darling you look perfect tonight
+\n
+\n
+\n   G      &#160;&#160;&#160;&#160;&#160;     Em
+\n Well I found a woman, stronger than anyone I know
+\n    C     &#160;&#160;&#160;&#160;&#160;          D
+\n She shares my dreams, I hope that someday I\'ll share her home
+\n     G   &#160;&#160;&#160;   Em
+\n I found a love, to carry more than just my secrets
+\n  C         &#160;&#160;&#160;&#160;&#160;&#160;&#160;   D
+\n To carry love, to carry children of our own
+\n
+\n
+\n    G    &#160;&#160;&#160;&#160;&#160;     Em
+\n We are still kids, but we\'re so in love, fighting against all odds
+\n   C   &#160;&#160;&#160;&#160;      G &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; D
+\n I know that we\'ll be alright this ti-ime
+\n  G   &#160;&#160;&#160;&#160;&#160;     Em
+\n Darling just hold my hand, be my girl, I\'ll be your man
+\n  C  &#160;&#160;   D
+\n I see my future in your eyes
+\n
+\n
+\n     &#160;  Em    C  &#160;&#160;&#160;  G  &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;  D&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;  Em
+\n Baby, I\'m dancing in the dark, with you between my arms
+\n C   &#160;&#160;&#160;&#160;&#160;   G &#160;&#160; D  &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;  Em
+\n Barefoot on the grass, listening to our favorite song
+\n C     &#160;&#160;&#160;&#160;   G   &#160;&#160;&#160;&#160;    D      &#160;&#160;&#160;&#160;    Em
+\n When you said you looked a mess, I whispered underneath my breath
+\n    C   &#160;&#160;&#160;  G  &#160;&#160;&#160;&#160;&#160; D    &#160;&#160;   G
+\n But you heard it, darling you look perfect tonight </item>
+        <item>
+            \n[Chorus]
+\n  Dm &#160;&#160;&#160;&#160;&#160;  G
+\n Don\'t you tell me that it wasn\'t meant to be
+\n C &#160;&#160;&#160;&#160;&#160;  Am
+\n Call it quits, call it destiny
+\n  Dm &#160;&#160;&#160;&#160;&#160;  G
+\n Just because it won\'t come easily
+\n    &#160;&#160;&#160;&#160;&#160;  C
+\n Doesn\'t mean we shouldn\'t try
+\n
+\n [Verse 1]
+\n Gm  &#160;&#160;&#160;&#160;&#160;  Cm
+\n We had a good thing going lately
+\n             F#m
+\n Might not have always been a fairytale
+\n     Bm  &#160;&#160;&#160;&#160;&#160;  F#m  &#160;&#160;&#160;&#160;&#160;   Gm  &#160;&#160;&#160;&#160;&#160;  C
+\n But you know and I know that they ain\'t real
+\n                 F#m
+\n I\'ll take the truth over the story
+\n
+\n [Verse 2]
+\n Gm  &#160;&#160;&#160;&#160;&#160;  Cm
+\n You might\'ve tried my patience lately
+\n              F#m
+\n But I\'m not about to let us fail
+\n Bm  &#160;&#160;&#160;&#160;&#160;   Gm &#160;&#160;&#160;&#160;  C
+\n I\'ll be the wind picking up your sail
+\n  F#m  &#160;&#160;&#160;&#160;&#160; Dm
+\n But won\'t you do something for me?
+\n
+\n [Chorus]
+\n   Dm  &#160;&#160;&#160;&#160;&#160;  Gm
+\n Don\'t you tell me that it wasn\'t meant to be
+\n   Am &#160;&#160;&#160;&#160;&#160;  C
+\n Call it quits, call it destiny
+\n    Dm &#160;&#160;&#160;&#160;&#160;  G
+\n Just because it won\'t come easily
+\n   &#160;&#160;&#160;&#160;&#160;   C
+\n Doesn\'t mean we shouldn\'t try
+\n
+\n [Bridge]
+\n Gm  &#160;&#160;&#160;&#160;&#160;  C
+\n Coming and going, inside out, back to front
+\n F#m &#160;&#160;&#160;&#160;&#160;  Bm
+\n All tangled and messy, that\'s how we\'ve been and
+\n    Gm  &#160;&#160;&#160;&#160;  Dm &#160;&#160;&#160;&#160;&#160;   F#m
+\n We\'ll always be, and that\'s alright with me
+\n
+\n [Chorus]
+\n   Dm  &#160;&#160;&#160;&#160;&#160; Gm
+\n Don\'t you tell me that it wasn\'t meant to be
+\n    Am &#160;&#160;&#160;&#160;&#160;  C
+\n Call it quits, call it destiny
+\n      Dm&#160;&#160;&#160;&#160;&#160; G
+\n Just because it won\'t come easily
+\n                            C
+\n Doesn\'t mean we shouldn\'t try
+\n Em &#160;&#160;&#160; Dm  &#160;&#160;&#160;&#160;&#160;  Dm   &#160;&#160;&#160;  G
+\n Try, try, just because it won\'t come easily
+\n                            C
+\n Doesn\'t mean we shouldn\'t try
+\n
+\n [Chorus]
+\n   Dm &#160;&#160;&#160;&#160;&#160;&#160;&#160;  G
+\n Just because it won\'t come easily
+\n   C
+\n Doesn\'t mean we shouldn\'t try
+\n Em &#160;&#160;&#160;  Dm   &#160;&#160;&#160;&#160;&#160;   Dm &#160;&#160;&#160;&#160;    G
+\n Try, try, just because it won\'t come easily
+\n                            C
+\n Doesn\'t mean we shouldn\'t try </item>
+        <item>\n[Intro]
+\n G &#160;&#160;&#160; A7 &#160;&#160;&#160; C &#160;&#160;&#160; G
+\n
+\n [Verse 1]
+\n
+\n                   A7
+\n Kamukha mo si Paraluman,
+\n C &#160;&#160;&#160;&#160;&#160;&#160;&#160; G
+\n   Nung tayo ay bata pa.
+\n G &#160;&#160;&#160;&#160;&#160;&#160;&#160; A7
+\n   At ang galing-galing mo sumayaw,
+\n       C  &#160;&#160;&#160;&#160;&#160;&#160;&#160;  G
+\n Mapa boogie man o cha-cha.
+\n             G &#160;&#160;&#160;&#160;;A7
+\n Ngunit ang paborito,
+\n        C  &#160;&#160;&#160;&#160;&#160;&#160;&#160; G
+\n Ay pagsayaw mo ng el bimbo.
+\n          G  &#160;&#160;&#160;&#160;&#160;&#160;&#160; A7
+\n Nakakaindak, nakakaaliw,
+\n           C  &#160;&#160;&#160;&#160;&#160;&#160;&#160; G
+\n Nakakatindig balahibo.
+\n Em &#160;&#160;&#160;&#160;&#160;&#160;&#160;  G  &#160;&#160;&#160;&#160;&#160;&#160;&#160;   C  &#160;&#160;&#160;&#160;&#160;&#160;&#160;   D
+\n    Pagkagaling sa skwela ay didiretso na sa inyo,
+\n Em &#160;&#160;&#160;&#160;&#160;&#160;&#160;  G&#160;&#160;&#160;&#160;&#160;&#160;&#160;  C &#160;&#160;&#160;&#160;&#160;&#160;&#160;   D
+\n    At buong maghapon ay tinuturuan mo ako.
+\n
+\n [Chorus]
+\n       G   &#160;&#160;&#160;&#160;&#160;&#160;&#160; A7
+\n Magkahawak ang ating kamay,
+\n       C  &#160;&#160;&#160;&#160;&#160;&#160;&#160; G
+\n At walang kamalay-malay.
+\n         G   &#160;&#160;&#160;&#160;&#160;&#160;&#160;A7
+\n Na tinuruan mo ang puso ko,
+\n      C  &#160;&#160;&#160;&#160;&#160;&#160;&#160;  G
+\n Na umibig ng tunay.
+\n
+\n [Verse 2]
+\n                         A7
+\n Naninigas ang aking katawan,
+\n     C   &#160;&#160;&#160;&#160;&#160;&#160;&#160;  G
+\n Pagumikot na ang plaka.
+\n G  &#160;&#160;&#160;&#160;&#160;&#160;&#160;  A7
+\n   Patay sa kembot ng bewang mo,
+\n         C  &#160;&#160;&#160;&#160;&#160;&#160;&#160;  G
+\n At ang pungay ng iyong mga mata.
+\n        G  &#160;&#160;&#160;&#160;&#160;&#160;&#160; A7
+\n Lumiliwanag ang buhay,
+\n         C &#160;&#160;&#160;&#160;&#160;&#160;&#160;  G
+\n Habang tayo\'y magkaakbay.
+\n           G  &#160;&#160;&#160;&#160;&#160;&#160;&#160; A7
+\n At dahan-dahang dumudulas,
+\n           C  &#160;&#160;&#160;&#160;&#160;&#160;&#160;  G
+\n Ang kamay ko sa makinis mong braso.
+\n Em&#160;&#160;&#160;&#160;&#160;&#160;&#160; G  &#160;&#160;&#160;&#160;&#160;&#160;&#160;  C   &#160;&#160;&#160;&#160;&#160;&#160;&#160;   D
+\n    Sana noon pa man ay sinabi na sa iyo,
+\n Em  &#160;&#160;&#160;&#160;&#160;&#160;&#160;   G     &#160;&#160;&#160;&#160;&#160;&#160;&#160;  C   &#160;&#160;&#160;&#160;&#160;&#160;&#160;  D
+\n    Kahit hindi na uso ay ito lang ang alam ko.
+\n
+\n [Chorus]
+\n       G  &#160;&#160;&#160;&#160;&#160;&#160;&#160;A7
+\n Magkahawak ang ating kamay,
+\n       C &#160;&#160;&#160;&#160;&#160;&#160;&#160; G
+\n At walang kamalay-malay.
+\n         G &#160;&#160;&#160;&#160;&#160;&#160;&#160; A7
+\n Na tinuruan mo ang puso ko,
+\n      C &#160;&#160;&#160;&#160;&#160;&#160;&#160;  G
+\n Na umibig ng tunay.
+\n
+\n [Bridge]
+\n           G
+\n La la la la
+\n    A7
+\n La la
+\n     C
+\n La la
+\n          G
+\n La la la la
+\n
+\n [Verse 3]
+\n                       A7
+\n Lumipas ang maraming taon,
+\n C &#160;&#160;&#160;&#160;&#160;&#160;&#160; G
+\n   Di na tayo nagkita.
+\n G  &#160;&#160;&#160;&#160;&#160;&#160;&#160;A7
+\n   Balita ko\'y may anak ka na,
+\n     C  &#160;&#160;&#160;&#160;&#160;&#160;&#160;  G
+\n Ngunit walang asawa.
+\n      G  &#160;&#160;&#160;&#160;&#160;&#160;&#160; A7  &#160;&#160;&#160;&#160;&#160;&#160;&#160;  C
+\n Tagahugas ka raw ng pinggan
+\n           G
+\n Sa may Ermita.
+\n            G&#160;&#160;&#160;&#160;&#160;&#160;&#160;  A7
+\n At isang gabi nasagasaan,
+\n               C &#160;&#160;&#160;&#160;&#160;&#160;&#160; G
+\n Sa isang madilim na eskinita.
+\n Em   &#160;&#160;&#160;&#160;&#160;&#160;&#160; G  &#160;&#160;&#160;&#160;&#160;&#160;&#160;  C  &#160;&#160;&#160;&#160;&#160;&#160;&#160;  D
+\n   Lahat ng pangarap ko\'y bigla lang natunaw,
+\n Em  &#160;&#160;&#160;&#160;&#160;&#160;&#160; G  &#160;&#160;&#160;&#160;&#160;&#160;&#160; C  &#160;&#160;&#160;&#160;&#160;&#160;&#160; D
+\n   Sa panaginip na lang pala kita maisasayaw.
+\n
+\n
+\n [Chorus]
+\n       G   &#160;&#160;&#160;&#160;&#160;&#160;&#160; A7
+\n Magkahawak ang ating kamay,
+\n       C  &#160;&#160;&#160;&#160;&#160;&#160;&#160;  G
+\n At walang kamalay-malay.
+\n         G   &#160;&#160;&#160;&#160;&#160;&#160;&#160;  A7
+\n Na tinuruan mo ang puso ko,
+\n      C &#160;&#160;&#160;&#160;&#160;&#160;&#160;  G
+\n Na umibig ng tunay.
+\n
+\n [Chorus]
+\n       G  &#160;&#160;&#160;&#160;&#160;&#160;&#160;   A7
+\n Magkahawak ang ating kamay,
+\n       C   &#160;&#160;&#160;&#160;&#160;&#160;&#160;  G
+\n At walang kamalay-malay.
+\n         G  &#160;&#160;&#160;&#160;&#160;&#160;&#160; A7
+\n Na tinuruan mo ang puso ko,
+\n      C   &#160;&#160;&#160;&#160;&#160;&#160;&#160; G
+\n Na umibig ng tunay.
+\n
+\n [Coda]
+\n           G
+\n La la la la
+\n    A7
+\n La la
+\n     C
+\n La la
+\n          G
+\n La la la la
+        </item>
+        <item>\n [Chorus]
+\n  E  &#160;&#160;&#160;&#160;&#160;&#160;&#160; G#m
+\n All my friends are drunk again
+\n                           C#m
+\n And I\'m stumblin\' back to bed all by myself
+\n         A  &#160;&#160;&#160;&#160;&#160;&#160;&#160; B
+\n Don\'t need nobody else
+\n  E    &#160;&#160;&#160;&#160;&#160;&#160;&#160; G#m
+\n All my friends are drunk again
+\n                           C#m
+\n And I\'m stumblin\' back to bed all by myself
+\n         A  &#160;&#160;&#160;&#160;&#160;&#160;&#160; B
+\n Don\'t need nobody else
+\n
+\n
+\n [Verse 1]
+\n E   &#160;&#160;&#160;&#160;&#160;&#160;&#160;   G#m
+\n  Smell like smoke, nuit de l\'homme
+\n                                   C#m
+\n  It\'s been a while since we last spoke
+\n         A  &#160;&#160;&#160;&#160;&#160;&#160;&#160;  B
+\n  So tell me, how\'s it go?
+\n E  &#160;&#160;&#160;&#160;&#160;&#160;&#160;  G#m
+\n  Still love blues, nothin\' new
+\n                            C#m
+\n  Careless love, I\'ve had a few
+\n A   &#160;&#160;&#160;&#160;&#160;&#160;&#160; B
+\n  How \'bout you?
+\n
+\n
+\n [Chorus]
+\n  E    &#160;&#160;&#160;&#160;&#160;&#160;&#160;  G#m
+\n All my friends are drunk again
+\n                           C#m
+\n And I\'m stumblin\' back to bed all by myself
+\n         A   &#160;&#160;&#160;&#160;&#160;&#160;&#160; B
+\n Don\'t need nobody else
+\n  E  &#160;&#160;&#160;&#160;&#160;&#160;&#160;  G#m
+\n All my friends are drunk again
+\n                           C#m
+\n And I\'m stumblin\' back to bed all by myself
+\n         A  &#160;&#160;&#160;&#160;&#160;&#160;&#160; B
+\n Don\'t need nobody else
+\n
+\n
+\n [Verse 2]
+\n E
+\n  I never have thought
+\n              G#m
+\n  When you\'re gone
+\n                           C#m
+\n  I\'d find it hard to carry on
+\n              A  &#160;&#160;&#160;&#160;&#160;&#160;&#160; B
+\n  And it\'s probably \'cause
+\n E   &#160;&#160;&#160;&#160;&#160;&#160;&#160;  G#m
+\n  I fell in love way back then
+\n                       C#m
+\n  And I think about us when
+\n      A   &#160;&#160;&#160;&#160;&#160;&#160;&#160;  B
+\n  I think about us when
+\n
+\n
+\n [Chorus]
+\n  E     &#160;&#160;&#160;&#160;&#160;&#160;&#160;  G#m
+\n All my friends are drunk again
+\n                           C#m
+\n And I\'m stumblin\' back to bed all by myself
+\n    A  &#160;&#160;&#160;&#160;&#160;&#160;&#160; B
+\n I got nobody else
+\n  E   &#160;&#160;&#160;&#160;&#160;&#160;&#160; G#m
+\n All my friends are drunk again
+\n                           C#m
+\n And I\'m stumblin\' back to bed all by myself
+\n    A   &#160;&#160;&#160;&#160;  B  &#160;&#160;&#160;&#160;&#160;&#160;&#160; E
+\n I got, I got nobody else
+\n
+\n
+\n [Outro]
+\n G#m &#160;&#160;&#160; C#m &#160;&#160;&#160; A &#160;&#160;&#160; B &#160;&#160;&#160; E </item>
+        <item>
+            \n [Intro]
+\n Am &#160;&#160;&#160; Dm &#160;&#160;&#160; G &#160;&#160;&#160; C
+\n A &#160;&#160;&#160; Dm &#160;&#160;&#160; F &#160;&#160;&#160; E7
+\n
+\n
+\n [Verse 1]
+\n Am &#160;&#160;&#160;&#160;&#160;&#160;&#160; Dm
+\n When I look upon its face
+\n G &#160;&#160;&#160;&#160;&#160;&#160;&#160; C
+\n  Hold it in a sweet embrace
+\n A &#160;&#160;&#160;&#160;&#160;&#160;&#160; Dm
+\n When I enter in that place
+\n      F &#160;&#160;&#160;&#160;&#160;&#160;&#160; E7
+\n I\'ll sing its praise
+\n
+\n
+\n [Verse 2]
+\n Am &#160;&#160;&#160;&#160;&#160;&#160;&#160; Dm
+\n If we lift our voices high
+\n G &#160;&#160;&#160;&#160;&#160;&#160;&#160; C
+\n  Evil forces pass us by
+\n A &#160;&#160;&#160;&#160;&#160;&#160;&#160; Dm
+\n And our cause will never die
+\n
+\n
+\n [Outro]
+\n   F &#160;&#160;&#160;&#160;&#160;&#160;&#160; E7 &#160;&#160;&#160;&#160;&#160;&#160;&#160;  Am &#160;&#160;&#160;  D
+\n Enlighten up, my friends
+\n  F &#160;&#160;&#160;&#160;&#160;&#160;&#160; E7 &#160;&#160;&#160;&#160;&#160;&#160;&#160;  Am &#160;&#160;&#160;  D
+\n Enlighten up, my friends
+\n   F &#160;&#160;&#160;&#160;&#160;&#160;&#160; E7 &#160;&#160;&#160;&#160;&#160;&#160;&#160;  Am &#160;&#160;&#160;  D
+\n Enlighten up, my friends
+\n  F &#160;&#160;&#160;&#160;&#160;&#160;&#160; E7 &#160;&#160;&#160;&#160;&#160;&#160;&#160;  Am &#160;&#160;&#160;  D
+\n Enlighten up, my friends </item>
+        <item>\n C &#160;&#160;&#160; G &#160;&#160;&#160; Am &#160;&#160;&#160; F
+\n
+\n
+\n [Chorus]
+\n C &#160;&#160;&#160;&#160;&#160;&#160;&#160;  G   &#160;&#160;&#160;&#160;&#160;&#160;&#160; Am  &#160;&#160;  F
+\n I thought that I was dreaming when you said you love me
+\n               C
+\n The start of nothing
+\n                    G
+\n I had no chance to prepare
+\n                    Am&#160;&#160;&#160;&#160;&#160;&#160;&#160; F
+\n I couldn\'t see you coming
+\n               C
+\n The start of nothing, ooh
+\n          G
+\n I could hate you now
+\n Am &#160;&#160;&#160;&#160;&#160;&#160;&#160;  F
+\n It\'s quite alright to hate me now
+\n C  &#160;&#160;&#160;&#160;&#160;&#160;&#160; G
+\n When we both know that deep down
+\n                   Am   &#160;&#160;&#160;&#160;&#160;&#160;&#160; F
+\n The feeling still deep down is good
+\n
+\n [Verse 1]
+\n C  &#160;&#160;&#160;&#160;&#160;&#160;&#160; G  &#160;&#160;&#160;&#160;&#160;&#160;&#160;  Am
+\n If I could see through walls, I could see you\'re faking
+\n Am  &#160;&#160;&#160;&#160;&#160;&#160;&#160; F
+\n If you could see my thoughts you would see our faces
+\n C  &#160;&#160;&#160;&#160;&#160;&#160;&#160;  G &#160;&#160;&#160;&#160;&#160;&#160;&#160;  Am
+\n Safe in my rental like an armored truck back then
+\n Am &#160;&#160;&#160;&#160;&#160;&#160;&#160;  F
+\n We didn\'t give a fuck back then
+\n            C   &#160;&#160;&#160;&#160;&#160;&#160;&#160; G
+\n I ain\'t a kid no more
+\n G   &#160;&#160;&#160;&#160;&#160;&#160;&#160; Am   &#160;&#160;&#160;&#160;&#160;&#160;&#160;  F
+\n We\'ll never be those kids again
+\n               C &#160;&#160;&#160;&#160;&#160;&#160;&#160; G    &#160;&#160;&#160;&#160;&#160;&#160;&#160;  Am
+\n We drived to Syd\'s, had the X6 back then
+\n           F
+\n Back then
+\n                  C
+\n No matter what I did
+\n                   G
+\n My waves wouldn\'t dip back then
+\n Am &#160;&#160;&#160;&#160;&#160;&#160;&#160;  F
+\n Everything sucked back then
+\n C
+\n We were friends
+\n
+\n [Chorus]
+\n C  &#160;&#160;&#160;&#160;&#160;&#160;&#160; G  &#160;&#160;&#160;&#160;&#160;&#160;&#160;  Am &#160;&#160;&#160;   F
+\n I thought that I was dreaming when you said you love me
+\n C
+\n The start of nothing
+\n                     G
+\n I had no chance to prepare
+\n                    Am &#160;&#160;&#160;&#160;&#160;&#160;&#160; F
+\n I couldn\'t see you coming
+\n              C
+\n The start of nothing, ooh
+\n         G
+\n I could hate you now
+\n Am&#160;&#160;&#160;&#160;&#160;&#160;&#160; F
+\n It\'s quite alright to hate me now
+\n C  &#160;&#160;&#160;&#160;&#160;&#160;&#160; G
+\n When we both know that deep down
+\n                   Am  &#160;&#160;&#160;&#160;&#160;&#160;&#160;  F  &#160;&#160;&#160;&#160;&#160;&#160;&#160;  C
+\n The feeling still deep down is good
+\n
+\n [Verse 2]
+\n C  &#160;&#160;&#160;&#160;&#160;&#160;&#160;G  &#160;&#160;&#160;&#160;&#160;&#160;&#160;  Am
+\n In the halls of your hotel
+\n Am  &#160;&#160;&#160;&#160;&#160;&#160;&#160;  F
+\n Arm around my shoulder so I could tell
+\n C   &#160;&#160;&#160;&#160;&#160;&#160;&#160;  G  &#160;&#160;&#160;&#160;&#160;&#160;&#160; Am
+\n How much I meant to you,  meant it sincere back then
+\n                F
+\n We had time to kill back then
+\n C   &#160;&#160;&#160;&#160;&#160;&#160;&#160;  G
+\n You ain\'t a kid no more
+\n                      Am &#160;&#160;&#160;&#160;&#160;&#160;&#160; F
+\n We\'ll never be those kids again
+\n                C  &#160;&#160;&#160;&#160;&#160;&#160;&#160;  G
+\n It\'s not the same, ivory\'s illegal
+\n Am  &#160;&#160;&#160;&#160;&#160;&#160;&#160;   F
+\n Don\'t you remember?
+\n C
+\n I broke your heart last week
+\n G &#160;&#160;&#160;&#160;&#160;&#160;&#160; Am
+\n You\'ll probably feel better by the weekend
+\n           F
+\n Still remember, had you going crazy
+\n C
+\n Screaming my name
+\n         G   &#160;&#160;&#160;&#160;&#160;&#160;&#160;  Am F
+\n The feeling deep down is good
+\n
+\n [Chorus]
+\n C  &#160;&#160;&#160;&#160;&#160;&#160;&#160; G   &#160;&#160;&#160;&#160;&#160;&#160;&#160;   Am  &#160;&#160;&#160; F
+\n I thought that I was dreaming when you said you love me
+\n C
+\n The start of nothing
+\n                     G
+\n I had no chance to prepare
+\n                    Am&#160;&#160;&#160;&#160;&#160;&#160;&#160; F
+\n I couldn\'t see you coming
+\n              C
+\n The start of nothing, ooh
+\n         G
+\n I could hate you now
+\n Am &#160;&#160;&#160;&#160;&#160;&#160;&#160; F
+\n It\'s quite alright to hate me now
+\n C &#160;&#160;&#160;&#160;&#160;&#160;&#160; G
+\n When we both know that deep down
+\n                   Am  &#160;&#160;&#160;&#160;&#160;&#160;&#160; F&#160;&#160;&#160;&#160;&#160;&#160;&#160;   C
+\n The feeling still deep down is good
+\n
+\n [Verse 3]
+\n C  &#160;&#160;&#160;&#160;&#160;&#160;&#160; G
+\n All the things I didn\'t mean to say
+\n          Am&#160;&#160;&#160;&#160;&#160;&#160;&#160; F
+\n I didn\'t mean to do
+\n C   &#160;&#160;&#160;&#160;&#160;&#160;&#160;  G
+\n There were things you didn\'t need to say
+\n     Am  &#160;&#160;&#160;&#160;&#160;&#160;&#160; F
+\n You didn\'t mean to.. mean to
+\n C
+\n I\'ve been dreamin\' of you
+\n G
+\n Dreamin\' of you
+\n Am
+\n I\'ve been dreamin\' of you
+\n F
+\n Dreamin\' of you
+\n C &#160;&#160;&#160;&#160;&#160;&#160;&#160; Am
+\n I\'ve been dreaming, dreamin\' </item>
+        <item>
+\n         [Intro]
+\n F &#160;&#160;&#160; Dm &#160;&#160;&#160; Bb &#160;&#160;&#160; C &#160;&#160;&#160; F
+\n
+\n [Verse 1]
+\n
+\n F  &#160;&#160;&#160;&#160;&#160;&#160;&#160; Dm
+\n Sa unang tingin agad na nahumaling
+\n Bb
+\n Sa nagniningning mong mga mata
+\n C  &#160;&#160;&#160;&#160;&#160;&#160;&#160;  F
+\n Ika\’y isang bituwin na nagmula sa langit
+\n F
+\n \‘Di ko mawari
+\n C &#160;&#160;&#160; Dm
+\n Ang taglay mong tinatangi
+\n D &#160;&#160;&#160; Bb
+\n Sadya namang, nakakabighani
+\n C &#160;&#160;&#160;&#160;&#160;&#160;&#160; F
+\n \'Di maipaliwanag ang nararamdaman (Ooh)
+\n
+\n [Pre-Chorus]
+\n Bb  &#160;&#160;&#160;&#160;&#160;&#160;&#160;  C
+\n Namumukadkad ang aking ligaya
+\n F  &#160;&#160;&#160;&#160;&#160;&#160;&#160; C   &#160;&#160; Dm
+\n Sa tuwing ika\’y papalapit na
+\n Bb &#160;&#160;&#160;&#160;&#160;&#160;&#160; Bbm &#160;&#160; C &#160;&#160; F
+\n Hawakan mo ang aking kamay
+\n
+\n [Chorus]
+\n F
+\n O Paraluman
+\n Dm
+\n Ika\’y akin nang
+\n
+\n Dadalhin sa
+\n
+\n \'Di mo inaasahang
+\n Bb &#160;&#160;&#160;&#160;&#160;&#160;&#160; C &#160;&#160; F
+\n Paraiso (Hoo hoo)
+\n F
+\n Palagi kitang
+\n C &#160;&#160; Dm
+\n Aawitan ng kundiman
+\n
+\n \'Di magsasawa
+\n
+\n \'Di ka pababayaan
+\n Bb
+\n Isasayaw kita
+\n Bbm &#160;&#160;&#160;&#160;&#160;&#160;&#160; F
+\n Hanggang sa walang hanggan
+\n (Hoo hoo, hoo hoo)
+\n
+\n [Verse 2]
+\n F &#160;&#160;&#160;&#160;&#160;&#160;&#160; Dm
+\n Mga gunita na laging naiisip (Naiisip)
+\n
+\n Sumisilip (Sumisilip)
+\n Bb  &#160;&#160;&#160;&#160;&#160;&#160;&#160; C &#160;&#160;&#160; F
+\n Ang itinakda ng mahiwaga
+\n
+\n Liwanag na dulot mo
+\n Dm
+\n Nagbigay sinag sa madilim kong mundo
+\n
+\n Ibang iba ako
+\n
+\n Kapag ikaw ang kapiling
+\n Cm &#160;&#160; Bb
+\n Sumisiping ang buwan at mga bituwin
+\n Bbm
+\n Na para bang sumasang-ayon sa atin
+\n F
+\n Ang kalawakan (Kalawakan)
+\n
+\n [Pre-Chorus]
+\n Bb &#160;&#160;&#160;&#160;&#160;&#160;&#160; C
+\n Namumukadkad ang aking ligaya
+\n F  &#160;&#160;&#160;&#160;&#160;&#160;&#160; C&#160;&#160;&#160;&#160;&#160;&#160;&#160; Dm
+\n Sa tuwing ika\’y papalapit na
+\n Bb &#160;&#160;&#160;&#160;&#160;&#160;&#160; C &#160;&#160;&#160;&#160;&#160;&#160;&#160; F
+\n Hawakan mo ang aking kamay (Hoo hoo)
+\n
+\n [Chorus]
+\n F
+\n O Paraluman
+\n Dm
+\n Ika\’y akin nang
+\n
+\n Dadalhin sa
+\n
+\n \'Di mo inaasahang
+\n Bb &#160;&#160;&#160;&#160;&#160;&#160;&#160; C
+\n Paraiso (Paraiso) (Hoo hoo)
+\n F
+\n Palagi kitang
+\n Dm
+\n Aawitan ng kundiman
+\n
+\n \'Di magsasawa
+\n
+\n \'Di ka pababayaan
+\n Bb
+\n Isasayaw kita
+\n Bbm &#160;&#160;&#160;&#160;&#160;&#160;&#160; F
+\n Hanggang sa walang hanggan
+\n (Hoo hoo, hoo hoo)
+\n
+\n [Post-Chorus]
+\n O papaparapapa (Hoo hoo, hoo hoo)
+\n Dm
+\n Parapapaparaparaluman (Hoo hoo, hoo hoo)
+\n Bb
+\n Parapapaparaparaluman (Hoo hoo, hoo hoo)
+\n F
+\n Parapapaparaparaluman (Hoo hoo, hoo hoo)
+\n
+\n Parapapaparaparaluman
+\n
+\n [Bridge]
+\n Dm &#160;&#160;&#160; Bb
+\n Himig ng tadhana
+\n F &#160;&#160;&#160;&#160;&#160;&#160;&#160; C &#160;&#160;&#160;&#160;&#160;&#160;&#160; Dm
+\n Sa atin ay tumutugma na (Tumutugma na)
+\n Bb
+\n Himig ng tadhana
+\n F &#160;&#160;&#160;&#160;&#160;&#160;&#160; C &#160;&#160;&#160;&#160;&#160;&#160;&#160;  Dm
+\n Saatin ay tumutugma na (Tumutugma na)
+\n Bb
+\n Himig ng tadhana
+\n F&#160;&#160;&#160;&#160;&#160;&#160;&#160;  C
+\n Sa atin ay tumutugma na
+\n Dm &#160;&#160;&#160;&#160;&#160;&#160;&#160;Bb
+\n (Hoo hoo, hoo hoo)
+\n F &#160;&#160;&#160;&#160;&#160;&#160;&#160;  C
+\n (Hoo hoo, hoo hoo)
+\n (Hoo hoo, hoo hoo)
+\n
+\n [Chorus]
+\n F
+\n O Paraluman
+\n D-Dm
+\n Ika\’y akin nang
+\n
+\n Dadalhin sa
+\n Bb
+\n \'Di mo inaasahang
+\n C&#160;&#160; F
+\n Paraiso
+\n
+\n Palagi kitang
+\n C &#160;&#160;&#160;&#160;&#160;&#160;&#160; Dm
+\n Aawitan ng kundiman
+\n D
+\n \'Di magsasawa
+\n Gm
+\n \'Di ka pababayaan
+\n Dm &#160;&#160;&#160; Gm &#160;&#160;G
+\n Isasayaw kita
+\n Gm
+\n Mamahalin kita
+\n C &#160;&#160;&#160;&#160;&#160;&#160;&#160; F
+\n Hanggang sa walang hanggan
+\n (Hoo hoo, hoo hoo)</item>
+        <item>
+\n             [Verse]
+\n     D
+\n Binibini
+\n         Em7 &#160;&#160;&#160;&#160;&#160;&#160;&#160; D/F#
+\n Alam mo ba kung pa\'no nahulog sa\'yo?
+\n      G &#160;&#160;&#160;&#160;&#160;&#160;&#160; D
+\n Naramdaman lang bigla ng puso
+\n       Em7 &#160;&#160;&#160;&#160;&#160;&#160;&#160; D/F#
+\n Aking sinta, ikaw lang nagparamdam nito
+\n      G
+\n Kaya sabihin mo sa akin
+\n
+\n
+\n [Pre-Chorus]
+\n Bm7 &#160;&#160;&#160;&#160;&#160;&#160;&#160; Asus  &#160;&#160;&#160; G
+\n Ang tumatakbo sa isip mo
+\n Bm7 &#160;&#160;&#160;&#160;&#160;&#160;&#160; Asus  &#160;&#160;&#160; G
+\n Kung mahal mo na rin ba ako
+\n
+\n
+\n [Chorus]
+\n              D
+\n Isayaw mo ako
+\n    Em7 &#160;&#160;&#160;&#160;&#160;&#160;&#160; D/F#
+\n Sa gitna ng ulan, mahal ko
+\n     G  &#160;&#160;&#160;&#160;&#160;&#160;&#160;  D
+\n Kapalit man nito\'y buhay ko
+\n     Em7 &#160;&#160;&#160;&#160;&#160;&#160;&#160; D/F#
+\n Gagawin ang lahat para sa\'yo
+\n      G   &#160;&#160;&#160;&#160;&#160;&#160;&#160;  D
+\n Alam kong mahal mo na rin ako
+\n
+\n
+\n [Verse]
+\n     D
+\n Binibini
+\n    Em7&#160;&#160;&#160;&#160;&#160;&#160;&#160;  D/F#
+\n Sa nanonood sa\'kin, ayaw mo ba?
+\n          G  &#160;&#160;&#160;&#160;&#160;&#160;&#160;  D
+\n Pero ang yakap ngayo\'y kakaiba
+\n         Em7
+\n Hindi ka ba nalilito?
+\n          D/F#  &#160;&#160;&#160;&#160;&#160;&#160;&#160;  G
+\n Totoo na bang gusto ko ang lalabanan ng puso?
+\n
+\n
+\n [Pre-Chorus]
+\n Bm7 &#160;&#160;&#160;&#160;&#160;&#160;&#160; Asus   &#160;&#160;&#160; G
+\n Alam kong mahal mo na \'ko
+\n Bm7 &#160;&#160;&#160;&#160;&#160;&#160;&#160;  Asus  &#160;&#160;&#160;&#160;&#160;&#160;&#160; G
+\n Kung gano\'n, halika na\'t huwag lumayo
+\n
+\n
+\n [Chorus]
+\n             D
+\n Isayaw mo ako
+\n    Em7  &#160;&#160;&#160;&#160;&#160;&#160;&#160;  D/F#
+\n Sa gitna ng ulan, mahal ko
+\n     G  &#160;&#160;&#160;&#160;&#160;&#160;&#160;  D
+\n Kapalit man nito\'y buhay ko
+\n     Em7   &#160;&#160;&#160;&#160;&#160;&#160;&#160;  D/F#
+\n Gagawin ang lahat para sa\'yo
+\n      G    &#160;&#160;&#160;&#160;&#160;&#160;&#160;  D
+\n Alam kong mahal mo na rin ako
+\n
+\n
+\n [Interlude]
+\n D &#160;&#160;&#160; Em7 &#160;&#160;&#160; D/F# &#160;&#160;&#160; G
+\n
+\n
+\n [Chorus]
+\n             D
+\n Isayaw mo ako
+\n    Em7  &#160;&#160;&#160;&#160;&#160;&#160;&#160;  D/F#
+\n Sa gitna ng ulan, mahal ko
+\n     G  &#160;&#160;&#160;&#160;&#160;&#160;&#160;  D
+\n Kapalit man nito\'y buhay ko
+\n     Em7  &#160;&#160;&#160;&#160;&#160;&#160;&#160; D/F#
+\n Gagawin ang lahat para sa\'yo
+\n      G    &#160;&#160;&#160;&#160;&#160;&#160;&#160;  D
+\n Alam kong mahal mo na rin ako </item>
+        <item>
+            \n [Intro]
+\n Bb &#160;&#160;&#160; Bbm
+\n
+\n [Verse 1]
+\n                  Dm &#160;&#160;&#160;&#160;&#160;&#160;&#160; Am
+\n \‘Di ko na nadiligan
+\n                Gm
+\n Ang binhi ng iyong pagmamahal
+\n                   Dm &#160;&#160;&#160;&#160;&#160;&#160;&#160; Am
+\n Ayoko nang sapilitang
+\n             Gm
+\n Ibuhos ang lahat ng dinadamdam
+\n                  Dm  &#160;&#160;&#160;&#160;&#160;&#160;&#160;  Am
+\n Ang tangi kong hiling ay mahawakan
+\n               Gm
+\n Ang iyong mga kamay at daliri habang
+\n                    Dm &#160;&#160;&#160;&#160;&#160;&#160;&#160;  Am
+\n Dahan-dahang haplusin ng mga salita
+\n                       Gm
+\n Ang puso mong sabik mayakap \‘pag nag-iisa
+\n
+\n
+\n [Chorus]
+\n            F
+\n Kaya tahan na (ooh, ooh)
+\n          A7
+\n Sumandal ka (whoa, whoa)
+\n            Dm &#160;&#160;&#160;&#160;&#160;&#160;&#160;  C
+\n Hayaan mo na aking paglaruan
+\n                 Bb   &#160;&#160;&#160;&#160;&#160;&#160;&#160; Bbm
+\n Apoy ng iyong labi o paraluman
+\n
+\n
+\n [Verse 2]
+\n               Dm
+\n Binibining natutulog
+\n Am &#160;&#160;&#160;&#160;&#160;&#160;&#160; Gm
+\n Sa ilalim ng aking mga bulaklak
+\n                  Dm &#160;&#160;&#160;&#160;&#160;&#160;&#160; Am
+\n \‘Di mababaon sa limot ang
+\n             Gm
+\n Ligayang hatid ng iyong halimuyak
+\n
+\n                    Dm  &#160;&#160;&#160;&#160;&#160;&#160;&#160;  Am
+\n Alak lamang ang pumunas sa natira
+\n                       Gm
+\n Mong ala-alang \‘di kumupas
+\n                         Dm  &#160;&#160;&#160;&#160;&#160;&#160;&#160;  Am
+\n At kahit na, ipilit ko mang ibalik pa ang dati
+\n        Gm
+\n Tayo\’y mawawala pa rin
+\n
+\n
+\n [Chorus]
+\n             F
+\n Kaya tahan na (whoa, whoa)
+\n            A7
+\n Sumandal ka (whoa, whoa)
+\n            Dm  &#160;&#160;&#160;&#160;&#160;&#160;&#160;   C
+\n Hayaan mo na aking paglaruan
+\n                 Bb  &#160;&#160;&#160;&#160;&#160;&#160;&#160; Bbm
+\n Apoy ng iyong labi o paraluman
+\n               F  &#160;&#160;&#160;&#160;&#160;&#160;&#160;  A7
+\n Ilang araw nang, nakahiga
+\n              Dm  &#160;&#160;&#160;&#160;&#160;&#160;&#160;  C
+\n Tuluyan na nga bang ako\’y iyong nilisan
+\n         Bb  &#160;&#160;&#160;&#160;&#160;&#160;&#160;  Bbm
+\n Kahit saglit pwede bang mahawakan?
+\n
+\n
+\n (Interlude) F-A7-Dm-C-Bb-Bbm 2x
+\n
+\n
+\n [Bridge]
+\n F
+\n \‘Di na kailangang lumayo
+\n A7
+\n Halika sa akin
+\n Dm &#160;&#160;&#160;&#160;&#160;&#160;&#160;  C
+\n \‘Di na muling mabibigo
+\n Bb &#160;&#160;&#160;&#160;&#160;&#160;&#160; Bbm
+\n Ako ay yakapin
+\n
+\n
+\n [Chorus]
+\n             F
+\n Kaya tahan na (whoa, whoa)
+\n            A7
+\n Sumandal ka (whoa, whoa)
+\n            Dm  &#160;&#160;&#160;&#160;&#160;&#160;&#160;   C
+\n Hayaan mo na aking paglaruan
+\n                 Bb  &#160;&#160;&#160;&#160;&#160;&#160;&#160;  Bbm
+\n Apoy ng iyong labi o paraluman
+\n               F &#160;&#160;&#160;&#160;&#160;&#160;&#160;  A7
+\n Ilang araw nang, nakahiga
+\n              Dm &#160;&#160;&#160;&#160;&#160;&#160;&#160;   C
+\n Tuluyan na nga bang ako\’y iyong nilisan
+\n         Bb    &#160;&#160;&#160;&#160;&#160;&#160;&#160;  Bbm
+\n Kahit saglit pwede bang mahawakan? </item>
+        <item>
+\n         [Intro]
+\n Dmaj7 &#160;&#160;&#160;&#160;&#160;&#160;&#160; Gmaj7
+\n
+\n
+\n [Verse 1]
+\n Dmaj7 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Gmaj7
+\n   Got ashes on my pants, my favourite ones, but I don\'t care no more
+\n Dmaj7  &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Gmaj7
+\n   If you\'re not here with me, my favourite one, I might as well just go
+\n Dmaj7  &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Gmaj7
+\n   I\'ll leave it in your room my favourite clothes and you can wear them out, if you want
+\n Dmaj7 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;  Gmaj7
+\n   But just in case you miss the way I smell, it\'ll just be there
+\n
+\n
+\n [Chorus]
+\n        Bm &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;  F#m
+\n \'Cause I can\'t make you stay if you wanna go
+\n     Gmaj7 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;  Dmaj7
+\n But I will wait for you to say "Come home"
+\n    Bm  &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;  F#m
+\n Now might not just be the time for us
+\n        Em &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;  Gm
+\n But know that what we have will always last, oh
+\n
+\n
+\n [Interlude]
+\n Dmaj7 &#160;&#160;&#160; Gmaj7
+\n
+\n
+\n [Verse 2]
+\n Dmaj7 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Gmaj7
+\n  I fear the day might come that I will see you with another man
+\n Dmaj7 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Gmaj7
+\n   As much as it hurts me in the feels, I hope he holds your hand
+\n Dmaj7 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Gmaj7
+\n   I pray to God that you live happily, appreciate yourself
+\n Dmaj7  &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;  Gmaj7
+\n   Who knows maybe one day we\'ll be a family
+\n
+\n
+\n [Chorus]
+\n        Bm   &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;  F#m
+\n \'Cause I can\'t make you stay if you wanna go
+\n     Gmaj7  &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;  Dmaj7
+\n But I will wait for you to say "Come home"
+\n    Bm  &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;   F#m
+\n Now might not just be the time for us
+\n        Em &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;  Gm
+\n But know that what we have will always last
+\n
+\n
+\n [Bridge]
+\n          Bm7   &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; F#m7
+\n Time is my friend until this life ends
+\n                   Gmaj7  &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Dm7
+\n There\'s nothing that it cannot mend
+\n       Bm7      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;    F#m7 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;       Gmaj7  &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Gm
+\n Everyday I wonder if you ever miss my love
+\n
+\n
+\n [Chorus]
+\n        Dmaj7&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Gmaj7
+\n \'Cause I can\'t make you stay if you wanna go
+\n     Dmaj7 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Gmaj7
+\n But I will wait for you to say "Come home"
+\n    Dmaj7 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Gmaj7
+\n Now might not just be the time for us
+\n         Dmaj7  &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Gm
+\n But know that what we have will always last
+\n
+\n
+\n [Chorus]
+\n        Bm &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;  F#m
+\n \'Cause I can\'t make you stay if you wanna go (If you wanna go)
+\n     Gmaj7 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;  Dmaj7
+\n But I will wait for you to say "Come home" (Just say it, I\'ll wait for you)
+\n    Bm   &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; F#m
+\n Now might not just be the time for us (The time for us)
+\n        Em   &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;   Gm
+\n But know that what we have will always last, oh
+\n
+\n
+\n [Outro]
+\n &#160;&#160;&#160;Dmaj7 &#160;&#160;&#160; Gmaj7 &#160;&#160;&#160;x2</item>
+        <item>
+\n         [Intro]
+\n
+\n D-A-Bm-G
+\n
+\n
+\n [Verse 1]
+\n
+\n D
+\n Tatlong araw lang pala
+\n A
+\n Ako naging maligaya
+\n Bm
+\n Di ko man lang napuna
+\n G
+\n Tatlong araw ko\'y tapos na
+\n
+\n
+\n [Verse 2]
+\n
+\n D
+\n Araw ng kalokohan
+\n A
+\n Aking kinagalakan
+\n Bm
+\n Di ko naunawaan
+\n G
+\n Na ako\'y masusugatan
+\n
+\n
+\n [Verse 3]
+\n
+\n D
+\n Di ako makapaniwala
+\n A
+\n At ako\'y natulala
+\n Bm
+\n Lumululong lumalala
+\n G
+\n Ngunit ba\'t biglang nawala
+\n
+\n Repeat Verse 1
+\n
+\n Ad Lib: D-A-Bm-G (2x)
+\n
+\n
+\n [Verse 4]
+\n
+\n D
+\n Tatlong araw naging masaya
+\n A
+\n Isang taong lumuluha
+\n Bm
+\n Bakit mo kaya nagawa
+\n G
+\n Bakit ka hindi naawa
+\n
+\n
+\n [Verse 5]
+\n
+\n D
+\n Ngunit kung mapagbibigyan
+\n A
+\n Ang patalim ay hahawakan
+\n Bm
+\n Kahit na magmukhang timang
+\n G
+\n Basta magkabalikan
+\n
+\n
+\n [Verse 6]
+\n
+\n D5
+\n Tatlong araw lang pala
+\n A5
+\n Ako naging maligaya
+\n Bm5
+\n Di ko man lang napuna
+\n G
+\n Tatlong araw ko\'y tapos na
+\n
+\n
+\n [Verse 7]
+\n
+\n D
+\n Tatlong araw lang pala
+\n A5
+\n Di man lang ginawang lima
+\n Bm5
+\n Di ko man lang napuna
+\n G5
+\n Tatlong araw ko\'y tapos na
+\n
+\n
+\n [Coda]
+\n
+\n D5 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; A5
+\n Tatlong araw..
+\n             Bm5
+\n Tatlong araw..
+\n           G5
+\n Tatlong araw..
+\n
+\n Tatlong araw..
+\n           D5 &#160;&#160;&#160;break
+\n Tatlong araw..  </item>
+        <item>
+\n         [Intro]
+\n B9sus B7
+\n
+\n [Verse]
+\n Emaj7 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Amaj7
+\n Nagiisa, nakadungaw
+\n       F#m9&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;  B7
+\n Sa bintana ako bay nagkulang
+\n      Emaj7 &#160;&#160;&#160;&#160; Amaj7
+\n Nakaupo, lumalayo
+\n       F#m9 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;  B7
+\n Sa tukso, upang di magulo
+\n
+\n [Chorus]
+\n      Emaj7&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Amaj7
+\n Isasayaw ka sa ulap
+\n        F#m9  &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;   B7
+\n At maguusap hindi manghuhula
+\n      Emaj7 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Amaj7
+\n Isasayaw ka sa ulap
+\n        F#m9  &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;    B7
+\n Di hahayaang mahulog ng tuluyan
+\n
+\n [Verse]
+\n        Emaj7 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;   Amaj7
+\n Nagkamali ba ako sayo
+\n       F#m9   &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;        B7
+\n Nananatiling blanko ito
+\n       Emaj7  &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;       Amaj7
+\n Naririnig ang tinig mo
+\n       F#m9   &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;               B7
+\n Nabubuong muli, ang pagibig ko
+\n
+\n [Chorus]
+\n      Emaj7 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;    Amaj7
+\n Isasayaw ka sa ulap
+\n        F#m9   &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;          B7
+\n At maguusap hindi manghuhula
+\n      Emaj7  &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;   Amaj7
+\n Isasayaw ka sa ulap
+\n        F#m9     &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;          B7
+\n Di hahayaang mahulog ng tuluyan, oh
+\n
+\n [Bridge]
+\n Emaj7
+\n   Gusto kang makasama
+\n Amaj7
+\n   Ako na ang bahala
+\n F#m9
+\n   Wag ka lang mawalay
+\n   Atin nang kulayan
+\n B7
+\n   Ang munting mundo
+\n Emaj7
+\n   Tumingin sa akin
+\n Amaj7
+\n   Langhapin ang hangin
+\n F#m9
+\n   Bakit ba nasanay
+\n   Isip ay nadadamay
+\n B7
+\n   Sa puso
+\n
+\n [Chorus]
+\n      Emaj7  &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;   Amaj7
+\n Isasayaw ka sa ulap
+\n        F#m9   &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;       B7
+\n At maguusap di manghuhula
+\n      Emaj7  &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;   Amaj7
+\n Isasayaw ka sa ulap
+\n        F#m9    &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;           B7
+\n Di hahayaang mahulog ng tuluyan
+\n
+\n [Coda]
+\n N.C.
+\n Nagiisa, nakadungaw</item>
+        <item>
+\n         [Intro]
+\n Fmaj7  &#160;&#160;&#160;  Am &#160;&#160;&#160;G
+\n Fmaj7  &#160;&#160;&#160; Am &#160;&#160;&#160;G
+\n
+\n [Verse 1]
+\n Fmaj7 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;    Am &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;    G
+\n  Driving down the interstate
+\n Fmaj7 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;    Am &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;    G
+\n  I\'ve never felt so far away
+\n Fmaj7 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;    Am &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;    G
+\n  Leaving hardly hurts at all
+\n Fmaj7 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;    Am &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;    G
+\n  I\'m sorry that I never call
+\n
+\n [Pre-Chorus]
+\n Fmaj7 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;  Am
+\n Often I get exhausted
+\n G  &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Fmaj7   &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;  Am &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; G
+\n Trying regardless to be enough
+\n       Fmaj7  &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;  Am
+\n Is it selfish not to be selfless
+\n      G  &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Fmaj7 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;  G
+\n When all I can help is to open up?
+\n
+\n [Chorus]
+\n         F  &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Am &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; G
+\n I\'ll be better than I was before
+\n         F  &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;  Am&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; G
+\n Despite every text of yours ignored
+\n          F  &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Am7 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; G
+\n Will you call me still, just to hear my voice?
+\n    F  &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;  G
+\n I swear, always, I\'ll care
+\n
+\n Fmaj7 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Am &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; G
+\n   (I\'ll care)
+\n
+\n [Verse 2]
+\n Fmaj7 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Am   &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;  G
+\n  Flipping through our photographs
+\n Fmaj7 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Am   &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;  G
+\n  Those moments never seem to last
+\n Fmaj7 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Am   &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;  G
+\n  Listening to self-control
+\n Fmaj7 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Am   &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;  G
+\n  Those feelings that you\'ll never know
+\n
+\n [Pre-Chorus]
+\n Fmaj7   &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;  Am
+\n Leave me, it\'s never easy
+\n G   &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Fmaj7  &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Am &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; G
+\n I\'ve had a lifetime to be alone
+\n        Fmaj7  &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;  Am
+\n If you let me, when it gets heavy
+\n      G    &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;  Fmaj7 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;   G
+\n Know I\'ll never let you be all alone
+\n
+\n [Chorus]
+\n  F&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;  Am &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;G
+\n I\'ll be better than I was before
+\n  F&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;  Am &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;G
+\n Despite every text of yours ignored
+\n  F&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;  Am &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;G
+\n Will you call me still, just to hear my voice?
+\n    F  &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;   G
+\n I swear, always,
+\n F     &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;    G
+\n   Always
+\n F    &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;     G
+\n   Always, I\'ll care</item>
+        <item>
+\n         [Chorus]
+\n         D  &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;   D/F#
+\n O kay sarap sa ilalim ng kalawakan
+\n   Gmaj7  &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;     A
+\n Kapag kapiling kang tumitig sa kawalan
+\n           D   &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;     D/F#
+\n Saksi ang buwan at bituin sa pagmamahalan
+\n        Gmaj7  &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;     A
+\n Nating dalawa, nating dalawa
+\n
+\n
+\n [Verse 1]
+\n   D  &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;    D/F#
+\n Tanaw parin kita sinta
+\n Gmaj7  &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;     A
+\n  Kay layo ma\'y nagniningning
+\n                D   &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;   D/F#
+\n Mistula kang tala sa tuwing nakakasama ka
+\n Gmaj7  &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;      A
+\n  lumiliwanag ang daan
+\n
+\n
+\n [Pre-Chorus 1]
+\n                      Gadd9
+\n Kislap ng yung mga mata
+\n                   A  &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;     D/F#
+\n \'Pag ikaw ang kasabay puso\'y napapalagay
+\n                           Gadd9 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;       A
+\n Gabi\'y tumatamis tuwing hawak ko ang iyong kamay
+\n
+\n
+\n [Chorus]
+\n         D  &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;     D/F#
+\n O kay sarap sa ilalim ng kalawakan
+\n   Gmaj7   &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;     A
+\n Kapag kapiling kang tumitig sa kawalan
+\n           D   &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;     D/F#
+\n Saksi ang buwan at bituin sa pagmamahalan
+\n        Gmaj7  &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;    A
+\n Nating dalawa, nating dalawa
+\n
+\n
+\n
+\n [Verse 2]
+\n          D  &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;    D/F#
+\n Simoy ng hangin na kay lamig sa katawan
+\n Gmaj7&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;      A
+\n Daig parin ng liyab na aking nararamdaman
+\n D   &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;      D/F#
+\n Sa tuwing tayo\'y magkabilang mundo
+\n Gmaj7     &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;       A
+\n Isang tingin ko lang sa buwan napalapit narin sa iyo
+\n
+\n
+\n [Pre-Chorus 2]
+\n Gadd9 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;      A     &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;        D/F#
+\n  Langit ay nakangiti nag-aabang sa sandali
+\n                    Gadd9    &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;     A
+\n Buong paligid ay nasasabik sa\'ting halik
+\n
+\n
+\n [Chorus]
+\n         D   &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;      D/F#
+\n O kay sarap sa ilalim ng kalawakan
+\n   Gmaj7    &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;       A
+\n Kapag kapiling kang tumitig sa kawalan
+\n           D     &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;        D/F#
+\n Saksi ang buwan at bituin sa pagmamahalan
+\n        Gmaj7 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;       A
+\n Nating dalawa, nating dalawa
+\n
+\n
+\n [Adlib]
+\n D D/F# Gadd9 A
+\n D D/F# Gadd9 A
+\n
+\n
+\n [Chorus]
+\n         D    &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;     D/F#
+\n O kay sarap sa ilalim ng kalawakan
+\n   Gmaj7    &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;        A
+\n Kapag kapiling kang tumitig sa kawalan
+\n           D    &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;          D/F#
+\n Saksi ang buwan at bituin sa pagmamahalan
+\n        Gmaj7&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;      A
+\n Nating dalawa, nating dalawa
+\n
+\n
+\n
+\n [Final Chorus]
+\n         D  &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;    D/F#
+\n O kay sarap sa ilalim ng kalawakan
+\n   Gmaj7    &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;      A
+\n Kapag kapiling kang tumitig sa kawalan
+\n           D    &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;       D/F#
+\n Saksi ang buwan at bituin sa pagmamahalan
+\n        Gmaj7 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;     A
+\n Nating dalawa, nating dalawa</item>
+
+    </string-array>
+
+</resources>
